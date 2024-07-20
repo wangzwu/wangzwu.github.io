@@ -23,7 +23,7 @@ My research interests include software analysis and testing techniques, as well 
 
 
 # 📝 Publications 
-working...
+- **Zhengwu Wang**, Wenwei Lan and Zhanqi Cui*. SDA-FirmFuzz: Fuzz Testing IoT Device Firmwares Based on Seed Differential Analysis. the International Conference on Software Engineering and Knowledge Engineering (SEKE), South San Francisco, USA, October 26-28, 2024. (CCF C)
 
 
 # 🎖 Honors and Awards
