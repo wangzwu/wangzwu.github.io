@@ -19,7 +19,7 @@ redirect_from:
 
 I graduated with a bachelor's degree in Information Management and Information Systems from Beijing Information Science and Technology University. Currently, I am a second-year master's student in Computer Technology at the same university. 
 
-My research interests include software analysis and testing techniques, as well as IoT security.
+My research interests include software analysis and testing techniques, as well as IoT security, Fuzzing.
 
 
 # 📝 Publications 
