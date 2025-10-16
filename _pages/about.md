@@ -43,6 +43,7 @@ My research interests include software analysis and testing techniques, as well 
 - *2021.4* 北京市三好学生.
 - *2023.9* 北京信息科技大学研究生新生奖学金三等奖. 
 - *2024.10* 北京信息科技大学研究生学业奖学金一等奖. 
+- *2025.10* 北京信息科技大学研究生学业奖学金二等奖.
 
 # 📖 Educations
 - *2023.09 - (now)*, master's student in Computer Technology from Beijing Information Science and Technology University. 
